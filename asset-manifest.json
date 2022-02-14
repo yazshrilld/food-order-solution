@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/food-order-solution/static/css/main.45606093.css",
+    "main.js": "/food-order-solution/static/js/main.87f20089.js",
+    "static/media/meals.jpg": "/food-order-solution/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/food-order-solution/index.html",
+    "main.45606093.css.map": "/food-order-solution/static/css/main.45606093.css.map",
+    "main.87f20089.js.map": "/food-order-solution/static/js/main.87f20089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45606093.css",
+    "static/js/main.87f20089.js"
+  ]
+}
